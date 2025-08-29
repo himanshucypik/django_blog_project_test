@@ -1,0 +1,33 @@
+/* Test CSS to confirm it's loading */
+
+body {
+    background-color: lightblue;   /* Background ko turant change karega */
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    background: white;
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+footer {
+    background: #222;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
