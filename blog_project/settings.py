@@ -5,7 +5,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-CHANGE_THIS_SECRET_KEY"
 
 # Development ke liye True rakho, production ke liye False
-DEBUG =flase
+DEBUG =false
 APPEND_SLASH = True
 
 # Agar DEBUG = False karoge to yaha domain ya IP dalni hogi
